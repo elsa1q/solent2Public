@@ -10,7 +10,7 @@
     <artifactId>creditcardchecker-web</artifactId>
     <packaging>war</packaging>
 
-    <name>creditcardchecker-web</name>
+    <name>sscreditcardchecker-web</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
