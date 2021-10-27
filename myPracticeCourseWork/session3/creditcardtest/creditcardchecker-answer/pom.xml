@@ -20,10 +20,7 @@
         <maven.surefire.plugin.version>2.18</maven.surefire.plugin.version>
     </properties>
   
-    <modules>
-        <module>card-checker</module>
-        <module>web</module>
-    </modules>
+    <modules></modules>
     
     <dependencyManagement>
         <dependencies>

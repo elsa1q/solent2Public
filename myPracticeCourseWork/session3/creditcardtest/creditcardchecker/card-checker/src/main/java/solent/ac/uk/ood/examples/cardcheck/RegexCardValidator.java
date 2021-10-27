@@ -23,6 +23,20 @@ package solent.ac.uk.ood.examples.cardcheck;
  * @author ian.chen
  */
 public class RegexCardValidator {
+    /**
+    ACCESS_MODIFIER 
+            - PUBLIC, PRIVATE, PROTECT (https://www.tutorialspoint.com/java/java_modifier_types.htm)
+                    
+    RETURN TYPE 
+            THIS ESSENTIALLY WHAT YOU RETURN ONCE YOU DONE WITH IT 
+                    
+    NAME 
+            USUALLY IS SOMETHING THAT ALLOW YOU TO UNDERSTAND WHAT IT IS DOING
+                    
+    MAY HAVE PARAMETERS
+            THINGS IT NEED IN ORDER TO DO THE THING IT NEEDS TO DO
+                    **/
+            
     
     /**
      * Checks if the field is a valid credit card number.
